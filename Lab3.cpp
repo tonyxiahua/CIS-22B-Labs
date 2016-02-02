@@ -31,7 +31,10 @@ int main()
 bool test(char *p)
 {
  if (strlen(p) < 10)
- {return false;}
+ {
+  return false;
+ }
  else 
+  return ture;
 }
  
