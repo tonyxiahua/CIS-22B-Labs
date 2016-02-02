@@ -11,7 +11,7 @@ Date: Feb 2nd 2016
 #include <cctype>
 //#include <>
 using namespace std;
-bool test(char *);
+bool character(char *);
 
 int main()
 {
@@ -23,18 +23,27 @@ int main()
 		cin.getline(pwd, MAX);
 		cout << "You entered " << pwd << endl;
 	}
-	while (!test(pwd) && strlen(pwd) > 20);
-	cout << "You don't have enough numebr of digits or characters" << endl;
+	while (!character(pwd) && strlen(pwd) > 20 &&!);
 	system("pause");
 	return 0;
 }
 
-bool test(char *p)
+bool character(char *p)
 {
-	if (strlen(p) < 20)
+	if (strlen(p) < 20 && strlen(p)>6)
 	{
 		return false;
 	}
 	else
+	{
+		cout << endl;
+		cout << endl;
+		cout << "You don't have enough numebr of digits or characters." << endl;
+		cout << "Please enter the password between 6 to 20 characters and digits. " << endl;
+		cout << endl;
+		cout << endl;
 		return true;
+	}
 }
+
+//bool upper (isupper)
