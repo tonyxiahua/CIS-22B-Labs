@@ -16,7 +16,7 @@ I am planning to have a crowdin project, so anyone can do something for this hom
 
 **Donation methods**
 
-I am eating so dirt now. Please give me something to eat : (
+I am eating dirt now. Please give me something to eat : ( Also I am homeless.
 * Me: [rednik111@gmail.com](https://paypal.me/rednik)
 
 PayPal accepted.
