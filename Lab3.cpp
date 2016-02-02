@@ -2,7 +2,7 @@
  CIS 22B - section 04Y
  Lab3:
  Author: HUA XIA
- Date: Jan 26th 2016
+ Date: Feb 2nd 2016
  *************************************************************/
 
 #include <iostream>
@@ -13,9 +13,25 @@ using namespace std;
 int main()
 {
   const int MAX=10;
-  char pwd[MAX];
-
+  char pwd[MAX]={'\0'};
+  
+  do
+  {
+   cout << "Enter password: " <<endl;
+   cin.getline(pwd, MAX);
+   cout << "You entered " << pwd <<endl;
+  }
+ 
+  while(!test(pwd))
+  
   system("pause");
   return 0;
-  
 }
+
+bool test(char *p)
+{
+ if (strlen(p) < 10)
+ {return false;}
+ else 
+}
+ 
