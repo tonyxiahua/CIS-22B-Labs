@@ -9,21 +9,24 @@
 #include <string>
 #include <stdlib.h>
 #include <cctype>
+#include <>
 using namespace std;
+bool test(char *);
+
 int main()
 {
   const int MAX=10;
   char pwd[MAX]={'\0'};
-  
+
   do
   {
    cout << "Enter password: " <<endl;
    cin.getline(pwd, MAX);
    cout << "You entered " << pwd <<endl;
   }
- 
-  while(!test(pwd))
-  
+
+  while(!test(pwd));
+
   system("pause");
   return 0;
 }
@@ -34,7 +37,6 @@ bool test(char *p)
  {
   return false;
  }
- else 
+ else
   return ture;
 }
- 
