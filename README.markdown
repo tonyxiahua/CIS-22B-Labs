@@ -1,6 +1,6 @@
 #Computer Science Homework#
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
-for De Anza College 22B C++ Class
+\n for De Anza College 22B C++ Class
 
 ##Repositories
 
