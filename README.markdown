@@ -5,7 +5,7 @@
 for De Anza College 22B C++ Class
 
 ##Repositories
-
+Programming is hard.
 ## Supporter ##
 
 Hua Xia (redniktony) contribute to Hellen Pacheco 's Class
