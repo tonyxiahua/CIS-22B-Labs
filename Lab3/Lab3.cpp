@@ -39,6 +39,7 @@ int main()
     {
         cout << "Enter password: " << endl;
         cin.getline(pwd, MAX);
+        cin.clear();                                    //If user input out of the limits
         cout <<"\t\t\t\t\tInput Result"<<endl;
         if (character(pwd)==true)
         {
@@ -150,3 +151,38 @@ bool digit(char *p)
         return false;
     }
 }
+
+/************************************************************
+ 
+                        Output Result
+ 
+ Password Verifier
+ 1. The password should be at least six characters long. And the maximum size is 20.
+ 2. The password should contain at least one uppercase and at least one lowercase letter.
+ 3. The password should have at least one digit.
+ *************************************************************
+ 
+ Enter password:
+ 1234
+ Input Result
+ Please enter the password BETWEEN 6 to 20 CHARACTERS and DIGITS.
+ 
+ Enter password:
+ 123456
+ Input Result
+ You don't have A UPPERCASE LETTER in your password!
+ 
+ Enter password:
+ 123456S
+ Input Result
+ You don't have A LOWERCASE LETTER in your password!
+ 
+ Enter password:
+ 123456Ss
+ Input Result
+ *************************************************************
+ CONGRATULATIONS! PASSWORD SETTING! SUCCESS!
+ *************************************************************
+ sh: pause: command not found
+ Program ended with exit code: 0
+ *************************************************************/
