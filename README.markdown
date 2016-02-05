@@ -26,3 +26,5 @@ I am eating dirt now. Please give me something to eat : ( Also I am homeless.
 
 * Me: [rednik111@gmail.com](https://paypal.me/rednik)
 PayPal accepted.
+### License
+* Copyright protected by WTFPL
