@@ -19,19 +19,31 @@ Test 1 - Study Guide
 
 ##Chapter 9 - Pointers
 Do you know how to dynamically allocate and release memory?
+
 Do you know how to access a value using a pointer variable?
+
 Do you know how to pass pointers to functions and return them from functions?
+
 Do you understand how pointers relate to arrays?
+
 ##Chapter 10 - C-Strings and String Objects
 How are they similar?
+
 How are they different?
+
 The character testing functions (isdigit, isalpha, islower, isupper, isspace, etc)
+
 The character conversion functions (tolower, toupper)
+
 c-string library functions and string object methods
+
 ##Chapter 11 - Structures
 How to define a structure
+
 How to access a structure variable's members
+
 Arrays of structures and array as a member of a structure.
+
 
 Ask yourself:
 
