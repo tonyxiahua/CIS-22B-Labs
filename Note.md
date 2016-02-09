@@ -9,7 +9,13 @@ cstring has /0 in the end.
 
 -if (studentID.bill == studentID.william) use the full name to compare 
 
--Student s = {11465, "Joan", 2, 3.75}; This can also 
+-Student s = {11465, "Joan", 2, 3.75}; This can also put data in to structer Student
+
+-bool compare title(MovieData m1, MovieData m2);
+
+
+
+
 
 Test 1 - Study Guide
 ====
@@ -48,7 +54,5 @@ Arrays of structures and array as a member of a structure.
 Ask yourself:
 
 Do you really understand what you did on Labs 1-3 and Assignments 1-5?
+
 Have you done codelab exercises? Answers are now available.
-
-
-Last modified: Monday, February 8, 2016, 10:51 PM
