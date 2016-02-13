@@ -1,0 +1,23 @@
+Avengers: Age of Ultron,Joss Whedon,2015,120
+Mean Girls,Mark Waters,2004,97
+Happy Feet,George Miller,2006,108
+Surf's Up,Chris Buck,2007,85
+The Great Escape,John Sturges,1963,172
+Superbad,Gret Mottola,2007,113
+Earthlings,Shaun Monson,2005,95
+Limitless,Neil Burger,2011,105
+Guardians of the Galaxy,James Gunn,2014,120
+Kung Fu Hustle,Stephen Chow,2004,99
+Whiplash,Damien Chazelle,2014,106
+Ghost in the Shell,Mamoru Oshii,1995,82
+Pirates of the Caribbean,Gore Verbinski,2003,150
+Inglorious Basterds,Quentin Tarantino,2009,120
+Under the Tuscan Sun,Audrey Wells,2003,113
+A Thousand Words,Brian Robbins,2012,91
+Interstellar,Christopher Nollan,2014,160
+Zoolander,Ben Stiller,2001,105
+Captain America: The Winter Soldier,Russo,2014,120
+Chungking Express,Kai Wai Wong,1994,98
+The Matrix,Andy Wachowski,1999,136
+Gone Girl,David Fincher,2014,129
+Saving Private Ryan,Steven Spielberg,1998,120
